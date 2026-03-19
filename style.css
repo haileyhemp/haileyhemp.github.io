@@ -1,0 +1,16 @@
+p {
+    Color: rgb(0, 94, 202);
+    font-size: 26px;
+}
+h3 {
+    color: rgb(161, 0, 0);
+    font-size: 30px;
+}
+h2 {
+    font-size: 34px;
+    background-color: rgb(252, 252, 122);
+}
+h1 {
+    font-size: 40px;
+    color: rgb(161, 0, 0);
+}

@@ -1,0 +1,36 @@
+* {
+    background-color: black;
+}
+#one {
+    width: 250px;
+    height: 250px;
+    background-color: green;
+}
+body
+#one {
+    margin-top: 1%;
+    margin-left: auto;
+    margin-right: auto;
+}
+#two {
+    width: 250px;
+    height: 250px;
+    background-color: yellow;
+}
+body
+#two {
+    margin-top: 0.5%;
+    margin-left: auto;
+    margin-right: auto;
+}
+#three {
+    width: 250px;
+    height: 250px;
+    background-color: red;
+}
+body
+#three {
+     margin-top: 0.5%;
+    margin-left: auto;
+    margin-right: auto;
+}

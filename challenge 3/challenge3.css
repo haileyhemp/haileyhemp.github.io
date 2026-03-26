@@ -1,0 +1,28 @@
+#pink {
+    width: 500px;
+    height: 500px;
+    background-color: pink;
+}
+#teal {
+    width: 250px;
+    height: 166px;
+    background-color: aquamarine;
+}
+#blue {
+    width: 250px;
+    height: 166px;
+    background-color: rgb(75, 119, 240);
+}
+#purple {
+    width: 250px;
+    height: 166px;
+    background-color: rgb(226, 167, 250);
+}
+#pink,#yellow {
+    display: inline-block;
+}
+#yellow {
+    width: 500px;
+    height: 500px;
+    background-color: rgb(250, 250, 167);
+}

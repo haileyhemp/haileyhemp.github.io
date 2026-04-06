@@ -1,0 +1,22 @@
+#header {
+    font-size: 100px;
+    font-style: italic;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#left {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+}
+#middle {
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+}
+#right {
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+}
+#left, #middle, #right {
+    display: inline;
+    font-size: 25px;
+    background-color: rgb(233, 233, 233);
+}

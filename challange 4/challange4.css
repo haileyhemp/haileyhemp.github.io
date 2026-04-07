@@ -2,18 +2,22 @@
     font-size: 100px;
     font-style: italic;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left: 20%;
 }
 #left {
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-style: italic;
+    margin-left: 20%;
 }
 #middle {
     font-family: 'Times New Roman', Times, serif;
     font-style: italic;
+    margin-left: 50px;
 }
 #right {
     font-family: 'Times New Roman', Times, serif;
     font-style: italic;
+    margin-left: 50px;
 }
 #left, #middle, #right {
     display: inline;

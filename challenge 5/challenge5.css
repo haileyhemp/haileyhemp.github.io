@@ -1,0 +1,63 @@
+#r1 {
+    background-color: red;
+    height: 137px;
+    width: 200px;
+    margin-top: -8px;
+}
+#y1 {
+    background-color: yellow;
+    height: 137px;
+    width: 400px;
+}
+#b1 {
+    background-color: blue;
+    height: 137px;
+    width: 600px;
+}
+#dg1 {
+    background-color: darkgreen;
+    height: 137px;
+    width: 800px;
+}
+#dp {
+    background-color: purple;
+    height: 137px;
+    width: 1000px;
+}
+#lg1 {
+    background-color: lightgreen;
+    height: 137px;
+    width: 1200px;
+}
+#lb1 {
+    background-color: skyblue;
+    height: 137px;
+    width: 1400px;
+}
+#tan1 {
+    background-color: antiquewhite;
+    height: 137px;
+    width: 1600px;
+}
+#p1 {
+    background-color: palevioletred;
+    height: 137px;
+    width: 1800px;
+}
+#r1, #y1, #b1, #dg1, #dp, #lg1, #lb1, #tan1, #p1 {
+    margin-left: -8px;
+}
+#p2 {
+    background-color: palevioletred;
+    height: 137px;
+    width: 1800px;
+    margin-left: 192px;
+    margin-top: -153px;
+}
+#tan2 {
+    background-color: antiquewhite;
+    height: 137px;
+    width: 1600px;
+    margin-left: 392px;
+    margin-top: -153px;
+}

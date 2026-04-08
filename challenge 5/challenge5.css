@@ -1,63 +1,100 @@
 #r1 {
     background-color: red;
     height: 137px;
-    width: 200px;
-    margin-top: -8px;
+    width: 10%;
 }
 #y1 {
     background-color: yellow;
     height: 137px;
-    width: 400px;
+    width: 20%;
+    margin-top: -20px;
 }
 #b1 {
     background-color: blue;
     height: 137px;
-    width: 600px;
+    width: 30%;
 }
 #dg1 {
     background-color: darkgreen;
     height: 137px;
-    width: 800px;
+    width: 40%;
 }
 #dp {
     background-color: purple;
     height: 137px;
-    width: 1000px;
+    width: 50%;
 }
 #lg1 {
     background-color: lightgreen;
     height: 137px;
-    width: 1200px;
+    width: 60%;
 }
 #lb1 {
     background-color: skyblue;
     height: 137px;
-    width: 1400px;
+    width: 70%;
 }
 #tan1 {
     background-color: antiquewhite;
     height: 137px;
-    width: 1600px;
+    width: 80%;
 }
 #p1 {
     background-color: palevioletred;
     height: 137px;
-    width: 1800px;
+    width: 90%;
 }
 #r1, #y1, #b1, #dg1, #dp, #lg1, #lb1, #tan1, #p1 {
     margin-left: -8px;
 }
+#p2, #tan2, #lb2, #lg2, #lp, #dg2, #b2, #y2, #r2 {
+    margin-left: -4px;
+}
 #p2 {
     background-color: palevioletred;
     height: 137px;
-    width: 1800px;
-    margin-left: 192px;
-    margin-top: -153px;
+    width: 90%;
 }
 #tan2 {
     background-color: antiquewhite;
     height: 137px;
-    width: 1600px;
-    margin-left: 392px;
-    margin-top: -153px;
+    width: 80%;
+}
+#lb2 {
+    background-color: skyblue;
+    height: 137px;
+    width: 70%;
+}
+#lg2 {
+    background-color: lightgreen;
+    height: 137px;
+    width: 60%;
+}
+#lp {
+    background-color: mediumpurple;
+    height: 137px;
+    width: 50%;
+}
+#dg2 {
+    background-color: darkgreen;
+    height: 137px;
+    width: 40%;
+}
+#b2 {
+    background-color: blue;
+    height: 137px;
+    width: 30%;
+}
+#y2 {
+    background-color: yellow;
+    height: 137px;
+    width: 20%;
+}
+#r2 {
+    background-color: red;
+    height: 137px;
+    width: 10%;
+}
+p {
+    display: inline-block;
 }

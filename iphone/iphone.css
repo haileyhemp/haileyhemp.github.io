@@ -17,4 +17,9 @@ img {
     background-color: grey;
     height: 5opx
 }
-
+#phones, #names {
+    text-align: center;
+}
+#undiph {
+    margin-top: -40px;
+}

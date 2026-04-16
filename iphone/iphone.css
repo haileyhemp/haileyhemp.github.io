@@ -1,11 +1,11 @@
 p {
     display: inline;
-    font-size: 1vw;
+    font-size: 25px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     margin-left: 40px;
 }
-img {
-    height: 27px;
+#one, #two, #three {
+    height: 32px;
     display: inline;
     margin-left: 40px;
 }
@@ -14,8 +14,8 @@ img {
     text-align: center;
 }
 #top {
-    background-color: grey;
-    height: 5opx
+    background-color: rgb(233, 231, 231);
+    height: 100px
 }
 #phones, #names {
     text-align: center;
@@ -23,3 +23,7 @@ img {
 #undiph {
     margin-top: -40px;
 }
+#pro {
+    margin-left: -450px;
+}
+

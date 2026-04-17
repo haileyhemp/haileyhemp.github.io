@@ -21,9 +21,20 @@ p {
     text-align: center;
 }
 #undiph {
-    margin-top: -40px;
+    margin-top: -20px;
 }
 #pro {
     margin-left: -450px;
 }
-
+#first {
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#second, #third {
+    display: inline;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+#third {
+    color: rgb(0, 153, 255);
+}

@@ -28,8 +28,9 @@ h3 {
     display: inline;
     margin-left: 40px;
 }
-.uno, .dos, .tres {
-    display: inline;
+.uno, .dos, .tres, .cuatro, .cinco, .seis, .siete, .ocho, .nueve, .diez, .once, .doce {
+    display: inline-block;
+    margin-left: 50px;
 }
 #tonew,#twonew {
     color: orange;
@@ -75,6 +76,9 @@ h3 {
 #five {
     color: blanchedalmond;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#titan {
+    height: 70px;
 }
 #price {
     color: white;

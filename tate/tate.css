@@ -6,16 +6,24 @@
 .top {    
     font-weight: bolder;
     font-size: 30px;
+    vertical-align: center;
 }
 #one, #two, #three, #four, #TM {
     display: inline;
     text-align: center;
+    margin-left: 300px;
 }
 #TM {
     font-size: 200px;
 }
 .next {
     font-size: 40px;
+    display: inline-block;
+    margin-left: 50px;
+}
+#image {
+    height: 1000px;
+    margin-left: 30px;
 }
 #title {
     font-weight: bolder;
@@ -23,4 +31,6 @@
 }
 .here {
     font-size: 25px;
+    display: inline-block;
 }
+

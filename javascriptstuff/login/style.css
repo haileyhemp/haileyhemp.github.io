@@ -1,0 +1,21 @@
+* {
+    background-color: darkslategrey;
+    font-size: xx-large;
+}
+button {
+    color: #303030;
+    background-color: beige;
+    display: block;
+    margin-left: 45%;
+    margin-top: 50px;
+}
+#enter {
+    color: 303030;
+    font-weight: bolder;
+    text-align: center;
+    margin-top: 300px;
+}
+#username {
+    margin-left: 250px;
+}
+

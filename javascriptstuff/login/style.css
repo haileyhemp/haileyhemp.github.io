@@ -1,21 +1,36 @@
 * {
     background-color: darkslategrey;
     font-size: xx-large;
+
 }
 button {
     color: #303030;
     background-color: beige;
     display: block;
-    margin-left: 45%;
-    margin-top: 50px;
+    margin-left: 47%;
+    margin-top: 250px;
 }
 #enter {
     color: 303030;
     font-weight: bolder;
     text-align: center;
-    margin-top: 300px;
+    margin-top: 120px;
 }
 #username {
-    margin-left: 250px;
+    display: block;
+    margin-top: 200px;
+    margin-left: 42.25%;
+}
+#user {
+    text-align: center;
+    color: #303030;
+}
+#password {
+    margin-top: 50px;
+    margin-left: 42.25%;
+}
+#pass {
+    text-align: center;
+    color: #303030;
 }
 

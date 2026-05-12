@@ -7,7 +7,7 @@ button {
     color: #303030;
     background-color: beige;
     display: block;
-    margin-left: 47%;
+    margin-left: 47.5%;
     margin-top: 250px;
 }
 #enter {
@@ -38,5 +38,6 @@ button {
 #status-text {
     text-align: center;
     color: #303030;
+    font-weight: bolder;
 }
 

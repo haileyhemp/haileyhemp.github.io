@@ -12,6 +12,5 @@ function checkCredentials(){
         status_tect.innterHTML = "ACCESS DENIED";
         status_text.style.color = "red";
     }
-
 }
 submit_button.addEventListener("click", checkCredentials);

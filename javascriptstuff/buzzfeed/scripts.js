@@ -36,6 +36,14 @@ function calculate_result(){
 submit_button.addEventListener("click", check_q1);
 
 
+var q2_a1 = document.getElementById("q2-a1");
+var q2_a1 = document.getElementById("q2-a2");
+var q2_a1 = document.getElementById("q2-a3");
+var q2_a1 = document.getElementById("q2-a4");
+
+var result = document.getElementById("result");
+var submit_button = document.getElementById("submit-button");
+
 var score_Teal = 0;
 var score_Green = 0;
 var score_Yellow = 0;
@@ -52,6 +60,42 @@ function check_q2(){
     }
     else if (q2_a4.checked == true){
         score_Red = score_Red + 1;
+    }
+    else {
+        result.innerHTML = "You didn't chose anything";
+    }
+    check_q3();
+}
+
+function calculate_result(){
+
+}
+submit_button.addEventListener("click", check_q2);
+
+var q3_a1 = document.getElementById("q3-a1");
+var q3_a1 = document.getElementById("q3-a2");
+var q3_a1 = document.getElementById("q3-a3");
+var q3_a1 = document.getElementById("q3-a4");
+
+var result = document.getElementById("result");
+var submit_button = document.getElementById("submit-button");
+
+var score_Dragon = 0;
+var score_Horse = 0;
+var score_Frog = 0;
+var score_Fish = 0;
+function check_q2(){
+    if (q3_a1.checked == true){
+        score_Dragon = score_Dragon + 1;
+    }
+    else if (q3_a2.checked == true) {
+        score_Horse = score_Horse + 1;
+    }
+    else if (q3_a3.checked == true){
+        score_Frog = score_Frog + 1;
+    }
+    else if (q3_a4.checked == true){
+        score_Fish = score_Fish + 1;
     }
     else {
         result.innerHTML = "You didn't chose anything";

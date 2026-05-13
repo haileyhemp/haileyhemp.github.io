@@ -34,3 +34,32 @@ function calculate_result(){
 
 }
 submit_button.addEventListener("click", check_q1);
+
+
+var score_Teal = 0;
+var score_Green = 0;
+var score_Yellow = 0;
+var score_Red = 0;
+function check_q2(){
+    if (q2_a1.checked == true){
+        score_Teal = score_Teal + 1;
+    }
+    else if (q2_a2.checked == true) {
+        score_Green = score_Green + 1;
+    }
+    else if (q2_a3.checked == true){
+        score_Yellow = score_Yellow + 1;
+    }
+    else if (q2_a4.checked == true){
+        score_Red = score_Red + 1;
+    }
+    else {
+        result.innerHTML = "You didn't chose anything";
+    }
+    check_q3();
+}
+
+function calculate_result(){
+
+}
+submit_button.addEventListener("click", check_q2);

@@ -107,3 +107,27 @@ function calculate_result(){
 
 }
 submit_button.addEventListener("click", check_q2);
+
+function calculate_result() {
+    let maxkey = "";
+    let maxvalue = -Infinity;
+    
+for (const [key, value] of Object.entries(result)) {
+      if (value > maxvalue){
+            maxvalue = value;
+            maxkey = key;
+        }
+    }
+    if (maxkey == "score_Ariel") {
+
+    }
+    if (maxkey == "score_Tiana"){
+
+    }
+    if (maxkey == "score_Mulan") {
+
+    }
+    if (maxkey == "score_Belle"){
+
+    }
+}
